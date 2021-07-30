@@ -1,0 +1,17 @@
+[
+    {
+        "sellerName": "Josias",
+        "sellerId": 1,
+        "email": "josias@email.com"
+    },
+    {
+        "sellerName": "Miriam",
+        "sellerId": 2,
+        "email": "miriam@email.com"
+    },
+    {
+        "sellerName": "Luma",
+        "sellerId": 3,
+        "email": "luma@email.com"
+    }
+]

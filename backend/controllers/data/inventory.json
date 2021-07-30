@@ -1,0 +1,36 @@
+
+[
+    {
+        "name": "Linha de pesca",
+        "id": 1,
+        "description": "linha de pescar, jogou pescou é assim mesmo pode confiar",
+        "amount": 250,
+        "price": 2
+    },
+    {
+        "name": "Vara de pesca",
+        "id": 2,
+        "description": "Amarrou na linha é gol mlk",
+        "amount": 50,
+        "price": 75
+    },
+    {
+        "name": "Isca de minhoca",
+        "id": 3,
+        "description": "Quer botar a minhoca no anzol? hol hol hol hol hol hol",
+        "amount": 68,
+        "price": 1
+    }
+    ,
+    {
+        "name": "Isca de molusco",
+        "id": 4,
+        "description": "Molusco no anzol é o nome da minha mãe na noite paulistana",
+        "amount": 31,
+        "price": 7
+    }
+    
+
+]
+    
+

@@ -1,0 +1,17 @@
+[
+    {
+        "date": "05/10/2020",
+        "sellerName": "Josias",
+        "sellerId": 1,
+        "items": [
+            {
+                "productId": 4,
+                "productName": "Vara de pesca",
+                "unitValue": 45,
+                "amountSold": 4
+            }
+        ],
+        "total": 450,
+        "paymentMethod": "credit card" 
+    }
+]

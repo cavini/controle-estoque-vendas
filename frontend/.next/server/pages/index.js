@@ -20,7 +20,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "C:\\Users\\Usuario\\Desktop\\Projetos\\controle-estoque-vendas\\frontend\\Components\\Layout\\Footer\\Footer.tsx";
+var _jsxFileName = "C:\\Users\\ACT\\Desktop\\controle-estoque-vendas\\frontend\\Components\\Layout\\Footer\\Footer.tsx";
 
 function Footer() {
   return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
@@ -63,7 +63,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Footer_Footer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Footer/Footer */ "./Components/Layout/Footer/Footer.tsx");
 /* harmony import */ var _Navbar_Navbar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Navbar/Navbar */ "./Components/Layout/Navbar/Navbar.tsx");
 
-var _jsxFileName = "C:\\Users\\Usuario\\Desktop\\Projetos\\controle-estoque-vendas\\frontend\\Components\\Layout\\Layout.tsx";
+var _jsxFileName = "C:\\Users\\ACT\\Desktop\\controle-estoque-vendas\\frontend\\Components\\Layout\\Layout.tsx";
 
 
 
@@ -129,7 +129,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _navbar_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./navbar.module.css */ "./Components/Layout/Navbar/navbar.module.css");
 /* harmony import */ var _navbar_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_navbar_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "C:\\Users\\Usuario\\Desktop\\Projetos\\controle-estoque-vendas\\frontend\\Components\\Layout\\Navbar\\Navbar.tsx";
+var _jsxFileName = "C:\\Users\\ACT\\Desktop\\controle-estoque-vendas\\frontend\\Components\\Layout\\Navbar\\Navbar.tsx";
 
 
 
@@ -173,7 +173,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _navbarItems_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_navbarItems_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
 
-var _jsxFileName = "C:\\Users\\Usuario\\Desktop\\Projetos\\controle-estoque-vendas\\frontend\\Components\\Layout\\Navbar\\NavbarItems.tsx";
+var _jsxFileName = "C:\\Users\\ACT\\Desktop\\controle-estoque-vendas\\frontend\\Components\\Layout\\Navbar\\NavbarItems.tsx";
 
 
 function NavbarItems() {
@@ -248,7 +248,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _login_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./login.module.css */ "./Components/Login/login.module.css");
 /* harmony import */ var _login_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_login_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "C:\\Users\\Usuario\\Desktop\\Projetos\\controle-estoque-vendas\\frontend\\Components\\Login\\Login.tsx";
+var _jsxFileName = "C:\\Users\\ACT\\Desktop\\controle-estoque-vendas\\frontend\\Components\\Login\\Login.tsx";
 
 
 function Login() {
@@ -343,7 +343,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Components_Layout_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Components/Layout/Layout */ "./Components/Layout/Layout.tsx");
 /* harmony import */ var _Components_Login_Login__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Components/Login/Login */ "./Components/Login/Login.tsx");
 
-var _jsxFileName = "C:\\Users\\Usuario\\Desktop\\Projetos\\controle-estoque-vendas\\frontend\\pages\\index.tsx";
+var _jsxFileName = "C:\\Users\\ACT\\Desktop\\controle-estoque-vendas\\frontend\\pages\\index.tsx";
 
 
 function Home() {

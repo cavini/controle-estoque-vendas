@@ -1,8 +1,0 @@
-.linksContainer {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  width: 50%;
-  border: 1px solid red;
-  color: #fff;
-}

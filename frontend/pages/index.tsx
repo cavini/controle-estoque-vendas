@@ -1,12 +1,12 @@
-import Layout from "../Components/Layout/Layout";
-import Login from "../Components/Login/Login";
+import Hero from "../components/hero/Hero";
+import Navbar from "../components/navbar/Navbar";
+
 
 export default function Home() {
   return (
-    <div style={{ height: "100vh" }}>
-      <Layout>
-        <Login />
-      </Layout>
+    <div style={{padding: '1% 5%'}}>
+        <Navbar />
+        <Hero />
     </div>
   );
 }

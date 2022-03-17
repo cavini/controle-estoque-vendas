@@ -1,12 +1,11 @@
-import Hero from "../components/hero/Hero";
-import Navbar from "../components/navbar/Navbar";
-
+import CallToAction from "../Components/CallToAction/CallToAction";
+import Hero from "../Components/Hero/Hero";
 
 export default function Home() {
   return (
-    <div style={{padding: '1% 5%'}}>
-        <Navbar />
-        <Hero />
-    </div>
+    <>
+      <Hero />
+      <CallToAction />
+    </>
   );
 }

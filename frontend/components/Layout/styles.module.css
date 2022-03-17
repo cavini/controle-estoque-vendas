@@ -1,0 +1,12 @@
+.Layout {
+  min-height: 98vh;
+
+  padding: 0 8%;
+}
+
+.blueBar {
+  background-color: #4470c7;
+  width: 100%;
+  margin: 0;
+  height: 2vh;
+}

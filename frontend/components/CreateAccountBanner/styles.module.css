@@ -1,0 +1,27 @@
+.svgContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 10%;
+  margin-top: 5%;
+  width: 100%;
+  height: 60vh;
+  border: 1px solid red;
+  position: relative;
+  background: linear-gradient(rgb(68, 112, 199, 0.8)),
+    url("../../../../../teste.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.svgContainer p {
+  color: white;
+  font-size: 45px;
+}
+
+.svgContainer a {
+  color: white;
+  text-decoration: none;
+  font-size: 45px;
+}

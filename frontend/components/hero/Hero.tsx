@@ -1,6 +1,6 @@
 import React from "react";
-import styles from "../hero/styles.module.css";
-import HomePageSvg from "../svgs/HomePageSvg";
+import styles from "./styles.module.css";
+import HomePageBanner from "../HomePageBanner/HomePageBanner";
 
 const Hero = () => {
   // paddingTop will need to be scaled down on desktop, need to find variable to base it out of
@@ -8,14 +8,20 @@ const Hero = () => {
   // width and height of svg might need some reajusting for desktop as well
   return (
     <>
-      <div className={styles.paragraphWrapper}>
-        <p className={styles.paragraph}>
-          Muito mais <span className={styles.span}>praticidade</span> para
-          organizar seu estoque
-        </p>
+      <div className={styles.contentWrapper}>
+        <div className={styles.svgWrapper}>
+          <HomePageBanner />
+        </div>
       </div>
-      <div className={styles.svgWrapper}>
-        <HomePageSvg />
+      <div className={styles.textWrapper}>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+          phasellus ipsum mattis dignissim odio enim augue. Felis duis bibendum
+          egestas nisl elit nisi. Mattis enim, ultrices enim orci tellus mattis
+          porta turpis. Et, convallis sed malesuada nam. Fermentum tincidunt
+          interdum elementum, neque felis magna tortor maecenas. Pellentesque
+          lorem amet porta malesuada.
+        </p>
       </div>
     </>
   );
